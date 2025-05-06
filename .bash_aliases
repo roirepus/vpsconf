@@ -1,0 +1,16 @@
+alias ga='git add'
+alias gc='git commit -m'
+alias gd='git diff'
+alias gst='git status'
+alias gps='git push'
+alias gpl='git pull'
+alias ..="cd ../"
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ......="cd ../../../../.."
+alias t="tmux"
+alias tks="tmux kill-session -t"
+alias tls="tmux ls"
+alias td="tmux detach"
+alias tas="tmux attach -t"
